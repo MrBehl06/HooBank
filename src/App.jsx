@@ -2,7 +2,7 @@ import React from 'react'
 import styles from './styles';
 
 import {Navbar,Billing,CardDeal,Business,Clients,CTA,Stats,Footer,Testimonials,Hero } from './components';
-const App = () =>  
+const App = () => 
   (  
     <>
     <div className='bg-primary w-full overflow-hidden1'>
